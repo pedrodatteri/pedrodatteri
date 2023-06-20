@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedrodatteri
-- 👀 I’m interested in many different technologies, but UX/UI designing is at the very top ATM!
-- 🌱 I’m currently learning JavaScript and NodeJS.
-- 💞️ I’m looking to collaborate on projects in need of a good designing!
+- 👀 I’m interested in many different technologies
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on projects that some rookies help each other!
 - 📫 reach me out on: www.linkedin.com/in/pedrodatteri
 
 <!---
