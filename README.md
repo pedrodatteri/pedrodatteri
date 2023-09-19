@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedrodatteri
 - 👀 I’m interested in many different technologies
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning every skill possible to become one of the best sysadmins out there.
 - 💞️ I’m looking to collaborate on projects that some rookies help each other!
 - 📫 reach me out on: www.linkedin.com/in/pedrodatteri
 
